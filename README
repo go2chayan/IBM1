@@ -24,8 +24,7 @@ result_Full.png: Plot results on the full dataset
 
 Please NOTE:
 ============
-This program assumes the following files are also present in the folder. Due to large size, I
-haven't included these files. Please copy these files before running the code.
+This program assumes the following files are also present in the folder.
 training.eng
 training.fra
 test.eng
